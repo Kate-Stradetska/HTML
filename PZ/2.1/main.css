@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top, 
+.last{
+    height: 200px;
+    background: rgb(44, 44, 223);
+}
+.middle{
+    background: rgb(116, 116, 233);
+    display: flex;
+    justify-content: space-around;
+}
+.middle div{
+    width: 33.3%;
+    height: 200px;
+}

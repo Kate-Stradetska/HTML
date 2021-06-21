@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    width: 100%;
+    height: 200px; 
+    background: tomato;
+}
+.middle{
+    height: 200px;
+    background: springgreen;
+}   
+.middle, div{
+    width: 100%;
+}
+.middle-one{
+    height: 80px;
+    background: turq    uoise;
+}
+.middle-two{
+    height: 120px;
+    background: rgb(60, 68, 67);
+}
+.middle-1{
+    width: 100%;
+    height: 200px;
+    background: rgb(187, 235, 16);
+}   
+.middle-oneone{
+    width: 100%;
+    height: 120px;
+    background: rgb(233, 14, 79);
+}
+.middle-twotwo{
+width: 100%;
+    height: 80px;
+    background: rgb(147, 161, 206);
+}
+.last{
+    width: auto;
+    height: 200px;
+    background: rgb(61, 61, 104);
+    display: flex;
+    justify-content: space-around;
+}
+.last-one{
+    width: 75%;
+}
+.last-two{
+    width: 25%;
+}
+.last-1{
+    width: auto;
+    height: 200px;
+    background: silver;
+}
+.center{
+    display: flex;
+    width: 100%;
+}
